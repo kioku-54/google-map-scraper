@@ -1,0 +1,2 @@
+"""Google Maps external integration."""
+
